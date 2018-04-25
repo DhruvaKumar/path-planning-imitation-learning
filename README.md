@@ -25,13 +25,13 @@ Algorithm 5 from [1] is implemented in this project. A log cost map is initializ
 More information can be found in the [report](./report/project5.pdf)
 
 
-**Original aerial image of the Penn campus**
+**Aerial map of the Penn campus**
 ![alt text](aerial_resize.jpg)
 
-**Cost map learned for vehicle mode**
+**Cost map learned for vehicles**
 ![alt text](./plots/costMapVeh.png)
 
-**Cost map learned for pedestrian mode**
+**Cost map learned for pedestrians**
 ![alt text](./plots/costMapPed.png)
 
 Once can observe that pathways between buildings have lower cost for pedestrians.
