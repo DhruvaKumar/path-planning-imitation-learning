@@ -1,0 +1,34 @@
+Path planning report
+
+- Intro
+
+
+
+
+
+- Feature extraction 
+	- Scaled image by a factor of 0.2
+	- Feature masks
+
+- Loss function - hamming window
+
+- Learch
+
+- results
+
+
+
+
+Plots
+-- Feature masks in rgb (4)
+-- loss function example (1)
+
+-- cost map (veh)after converging (1)		
+-- cost map (ped)after converging (1)	
+
+-- cost map for vehicle modality (1)
+-- cost map for ped modality (1)
+
+-- results (veh: 6+2)
+-- results (ped: 6+2)
+
