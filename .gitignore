@@ -1,4 +1,6 @@
 models/
+liblinear-1.96/
+matlab/
 old/
 src/
 submission/
